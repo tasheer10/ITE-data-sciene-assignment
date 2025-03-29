@@ -1,0 +1,362 @@
+visitor_id,visitor_email,visitor_gender,questionId,questionText,answerId,answerText,answerTypeId
+67b70a9f2d21f543a1096602,emilija+100_L8gA@bss.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+67b70a9f2d21f543a1096602,emilija+100_L8gA@bss.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73244,Media,Answer
+67b70a9f2d21f543a1096602,emilija+100_L8gA@bss.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+67b70a9f2d21f543a1096602,emilija+100_L8gA@bss.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+67ada1ee197e604dd2722d1b,aleksandar.dimkov+mitt1_n5eA@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+67ada1ee197e604dd2722d1b,aleksandar.dimkov+mitt1_n5eA@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73228,Sales,Answer
+67ada1ee197e604dd2722d1b,aleksandar.dimkov+mitt1_n5eA@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73294,Event management,Answer
+67ada1ee197e604dd2722d1b,aleksandar.dimkov+mitt1_n5eA@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336e,Sole responsibility,Answer
+67ada1ee197e604dd2722d1b,aleksandar.dimkov+mitt1_n5eA@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73375,5 - 10 million rubles,Answer
+67b44fef197e604dd2722d3d,daniela.p+150_YhiF@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+67b44fef197e604dd2722d3d,daniela.p+150_YhiF@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323c,Formation of tourist products,Answer
+67b44fef197e604dd2722d3d,daniela.p+150_YhiF@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+67b44fef197e604dd2722d3d,daniela.p+150_YhiF@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+67b44fef197e604dd2722d3d,daniela.p+150_YhiF@bss.com.mk,F,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+67b45018197e604dd2722d3e,tanja+182_jiPa@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+67b45018197e604dd2722d3e,tanja+182_jiPa@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+67b45018197e604dd2722d3e,tanja+182_jiPa@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+67b5f1392d21f543a10965f1,aleksandar.dimkov+mitt10_V0iB@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+67b5f1392d21f543a10965f1,aleksandar.dimkov+mitt10_V0iB@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+67b5f1392d21f543a10965f1,aleksandar.dimkov+mitt10_V0iB@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+67b5f1392d21f543a10965f1,aleksandar.dimkov+mitt10_V0iB@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+67b5f1392d21f543a10965f1,aleksandar.dimkov+mitt10_V0iB@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+67b5e0f7774d9e718c7541db,3990147_SeNs@gmail.com,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+67b5e0f7774d9e718c7541db,3990147_SeNs@gmail.com,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+67b5e0f7774d9e718c7541db,3990147_SeNs@gmail.com,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+67b45356197e604dd2722d43,tanja+182_Ahsx@bss.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+67b45356197e604dd2722d43,tanja+182_Ahsx@bss.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73293,IT solutions for travel industry,Answer
+67b45356197e604dd2722d43,tanja+182_Ahsx@bss.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336e,Sole responsibility,Answer
+67b45356197e604dd2722d43,tanja+182_Ahsx@bss.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73374,1 - 5 million rubles,Answer
+67b47874197e604dd2722d6f,daniela.p+201_Fwae@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+67b47874197e604dd2722d6f,daniela.p+201_Fwae@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+67b47874197e604dd2722d6f,daniela.p+201_Fwae@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+67b47874197e604dd2722d6f,daniela.p+201_Fwae@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336e,Sole responsibility,Answer
+67b47874197e604dd2722d6f,daniela.p+201_Fwae@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+67b708f32d21f543a10965fa,tanja+202_99oJ@bss.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+67b708f32d21f543a10965fa,tanja+202_99oJ@bss.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323c,Formation of tourist products,Answer
+67b708f32d21f543a10965fa,tanja+202_99oJ@bss.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73292,Accommodation Provider,Answer
+67b708f32d21f543a10965fa,tanja+202_99oJ@bss.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+67b708f32d21f543a10965fa,tanja+202_99oJ@bss.mk,F,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73374,1 - 5 million rubles,Answer
+67b46946197e604dd2722d5d,emilija+3_CmwU@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+67b46946197e604dd2722d5d,emilija+3_CmwU@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+67b46946197e604dd2722d5d,emilija+3_CmwU@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+67b46049197e604dd2722d4a,tatjana+182_N1PC@bss.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+67b46049197e604dd2722d4a,tatjana+182_N1PC@bss.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+67b46049197e604dd2722d4a,tatjana+182_N1PC@bss.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+67b46590197e604dd2722d5a,emilija+2_02Wi@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+67b46590197e604dd2722d5a,emilija+2_02Wi@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+67b46590197e604dd2722d5a,emilija+2_02Wi@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+67b47714197e604dd2722d69,daniela.p+200_IzcX@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+67b47714197e604dd2722d69,daniela.p+200_IzcX@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323d,Guided tour services,Answer
+67b47714197e604dd2722d69,daniela.p+200_IzcX@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+67b47714197e604dd2722d69,daniela.p+200_IzcX@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+67b47738197e604dd2722d6b,emilija+100_zbmO@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+67b47738197e604dd2722d6b,emilija+100_zbmO@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73244,Media,Answer
+67b47738197e604dd2722d6b,emilija+100_zbmO@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+67b47738197e604dd2722d6b,emilija+100_zbmO@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+67b484a9197e604dd2722d72,aleksandar.dimkov+mb1_Xc8j@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+67b484a9197e604dd2722d72,aleksandar.dimkov+mb1_Xc8j@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73228,Sales,Answer
+67b484a9197e604dd2722d72,aleksandar.dimkov+mb1_Xc8j@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73294,Event management,Answer
+67b484a9197e604dd2722d72,aleksandar.dimkov+mb1_Xc8j@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+67b70e142d21f543a1096609,daniela.p+203_NfBj@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73102,Educational purposes ,Answer
+67b70e142d21f543a1096609,daniela.p+203_NfBj@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+67b70e142d21f543a1096609,daniela.p+203_NfBj@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+67b70e142d21f543a1096609,daniela.p+203_NfBj@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+67b709442d21f543a10965fe,emilija+101_jj3C@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+67b709442d21f543a10965fe,emilija+101_jj3C@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73228,Sales,Answer
+67b709442d21f543a10965fe,emilija+101_jj3C@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+67b709442d21f543a10965fe,emilija+101_jj3C@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+67b70c7a2d21f543a1096605,daniela.p+202_Rw2b@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+67b70c7a2d21f543a1096605,daniela.p+202_Rw2b@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73229,Marketing,Answer
+67b70c7a2d21f543a1096605,daniela.p+202_Rw2b@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+67b70c7a2d21f543a1096605,daniela.p+202_Rw2b@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+67b70c7a2d21f543a1096605,daniela.p+202_Rw2b@bss.com.mk,F,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+67b45942197e604dd2722d45,daniela.p+151_o4q3@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73103,Personal interest,Answer
+67b461e3197e604dd2722d4e,emilija_x3WF@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73103,Personal interest,Answer
+67b46415197e604dd2722d55,emilija+01_I7vH@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+67b46415197e604dd2722d55,emilija+01_I7vH@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+67b46415197e604dd2722d55,emilija+01_I7vH@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+67b5e25c774d9e718c7541de,sergey.usenko_ucwx@ite.group,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73103,Personal interest,Answer
+67bcb979966b8de398095c90,tanja+242_B3fl@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+67bcb979966b8de398095c90,tanja+242_B3fl@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73228,Sales,Answer
+67bcb979966b8de398095c90,tanja+242_B3fl@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+67bcb979966b8de398095c90,tanja+242_B3fl@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+67bcb979966b8de398095c90,tanja+242_B3fl@bss.com.mk,F,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73374,1 - 5 million rubles,Answer
+8lgk75oddjwupbeoh3j4r1rx,sergey.usenko_ucwx_ar23@ite.group,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73103,Personal interest,Answer
+fs2j657x3gpu9hs8v3vuvgz0,emilija+100_L8gA_Ur8T@bss.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+fs2j657x3gpu9hs8v3vuvgz0,emilija+100_L8gA_Ur8T@bss.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73244,Media,Answer
+fs2j657x3gpu9hs8v3vuvgz0,emilija+100_L8gA_Ur8T@bss.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+fs2j657x3gpu9hs8v3vuvgz0,emilija+100_L8gA_Ur8T@bss.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+vf4ns9sm2nfsdesl31l9rgc5,emilija_x3WF_SgHa@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73103,Personal interest,Answer
+xodwfemcnbuqzq632xnlrxt6,aleksandar.dimkov+mb1_Xc8j_kuh8@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+xodwfemcnbuqzq632xnlrxt6,aleksandar.dimkov+mb1_Xc8j_kuh8@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73228,Sales,Answer
+xodwfemcnbuqzq632xnlrxt6,aleksandar.dimkov+mb1_Xc8j_kuh8@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73294,Event management,Answer
+xodwfemcnbuqzq632xnlrxt6,aleksandar.dimkov+mb1_Xc8j_kuh8@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+fi1h2gygfcwed97ls0e0c31v,tanja+182_jiPa_jNR0@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+fi1h2gygfcwed97ls0e0c31v,tanja+182_jiPa_jNR0@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+fi1h2gygfcwed97ls0e0c31v,tanja+182_jiPa_jNR0@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+xy1nr3sp1vp7r17vtxyg683k,daniela.p+202_Rw2b_0LXC@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+xy1nr3sp1vp7r17vtxyg683k,daniela.p+202_Rw2b_0LXC@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73229,Marketing,Answer
+xy1nr3sp1vp7r17vtxyg683k,daniela.p+202_Rw2b_0LXC@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+xy1nr3sp1vp7r17vtxyg683k,daniela.p+202_Rw2b_0LXC@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+xy1nr3sp1vp7r17vtxyg683k,daniela.p+202_Rw2b_0LXC@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+3p80z1iocd67z0qvg8ju1cc0,aleksandar.dimkov+mitt10_V0iB_2bw2@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+3p80z1iocd67z0qvg8ju1cc0,aleksandar.dimkov+mitt10_V0iB_2bw2@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+3p80z1iocd67z0qvg8ju1cc0,aleksandar.dimkov+mitt10_V0iB_2bw2@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+3p80z1iocd67z0qvg8ju1cc0,aleksandar.dimkov+mitt10_V0iB_2bw2@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+3p80z1iocd67z0qvg8ju1cc0,aleksandar.dimkov+mitt10_V0iB_2bw2@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+szwocc75sg060he43kny1pzv,aleksandar.dimkov+mitt10_V0iB_UmV3@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+szwocc75sg060he43kny1pzv,aleksandar.dimkov+mitt10_V0iB_UmV3@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+szwocc75sg060he43kny1pzv,aleksandar.dimkov+mitt10_V0iB_UmV3@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+szwocc75sg060he43kny1pzv,aleksandar.dimkov+mitt10_V0iB_UmV3@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+szwocc75sg060he43kny1pzv,aleksandar.dimkov+mitt10_V0iB_UmV3@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+kyxbogwp6p8ixqs8ds25v2w6,daniela.p+203_NfBj_TkuP@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73102,Educational purposes ,Answer
+kyxbogwp6p8ixqs8ds25v2w6,daniela.p+203_NfBj_TkuP@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+kyxbogwp6p8ixqs8ds25v2w6,daniela.p+203_NfBj_TkuP@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+kyxbogwp6p8ixqs8ds25v2w6,daniela.p+203_NfBj_TkuP@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+fnj1fly0ua1tiuvc9pvp5m3r,emilija+2_02Wi_QBD0@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+fnj1fly0ua1tiuvc9pvp5m3r,emilija+2_02Wi_QBD0@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+fnj1fly0ua1tiuvc9pvp5m3r,emilija+2_02Wi_QBD0@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+5k1w1e9g4pqtjq6kaswik438,daniela.p+200_IzcX_T1OA@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+5k1w1e9g4pqtjq6kaswik438,daniela.p+200_IzcX_T1OA@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323d,Guided tour services,Answer
+5k1w1e9g4pqtjq6kaswik438,daniela.p+200_IzcX_T1OA@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+5k1w1e9g4pqtjq6kaswik438,daniela.p+200_IzcX_T1OA@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+jucfn0c2jtisba29n87e4evt,daniela.p+200_IzcX_pGIR@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+jucfn0c2jtisba29n87e4evt,daniela.p+200_IzcX_pGIR@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323d,Guided tour services,Answer
+jucfn0c2jtisba29n87e4evt,daniela.p+200_IzcX_pGIR@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+jucfn0c2jtisba29n87e4evt,daniela.p+200_IzcX_pGIR@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+nzv2hgwyl8q24ej1kettdg8t,sergey.usenko_ucwx_aQ8I@ite.group,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73103,Personal interest,Answer
+7z4ymlbvgu3ct7w8qjeaycts,daniela.p+202_Rw2b_MtGK@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+7z4ymlbvgu3ct7w8qjeaycts,daniela.p+202_Rw2b_MtGK@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73229,Marketing,Answer
+7z4ymlbvgu3ct7w8qjeaycts,daniela.p+202_Rw2b_MtGK@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+7z4ymlbvgu3ct7w8qjeaycts,daniela.p+202_Rw2b_MtGK@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+7z4ymlbvgu3ct7w8qjeaycts,daniela.p+202_Rw2b_MtGK@bss.com.mk,F,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+unfq2oxirwh1d7iqfgqxwdcd,aleksandar.dimkov+mitt10_V0iB_GLVX@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+unfq2oxirwh1d7iqfgqxwdcd,aleksandar.dimkov+mitt10_V0iB_GLVX@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+unfq2oxirwh1d7iqfgqxwdcd,aleksandar.dimkov+mitt10_V0iB_GLVX@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+unfq2oxirwh1d7iqfgqxwdcd,aleksandar.dimkov+mitt10_V0iB_GLVX@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+unfq2oxirwh1d7iqfgqxwdcd,aleksandar.dimkov+mitt10_V0iB_GLVX@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+je2onetovfvjq9eheqd1innr,emilija+01_I7vH_TpD9@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+je2onetovfvjq9eheqd1innr,emilija+01_I7vH_TpD9@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+je2onetovfvjq9eheqd1innr,emilija+01_I7vH_TpD9@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+ktctiej7lv5fikf9ej8tbbdc,emilija+3_CmwU_XhuG@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+ktctiej7lv5fikf9ej8tbbdc,emilija+3_CmwU_XhuG@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+ktctiej7lv5fikf9ej8tbbdc,emilija+3_CmwU_XhuG@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+7ibrdat3zwe6vjvb0sv29jks,daniela.p+150_YhiF_SxIe@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+7ibrdat3zwe6vjvb0sv29jks,daniela.p+150_YhiF_SxIe@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323c,Formation of tourist products,Answer
+7ibrdat3zwe6vjvb0sv29jks,daniela.p+150_YhiF_SxIe@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+7ibrdat3zwe6vjvb0sv29jks,daniela.p+150_YhiF_SxIe@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+7ibrdat3zwe6vjvb0sv29jks,daniela.p+150_YhiF_SxIe@bss.com.mk,F,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+tcnfl4z60xouv3fk3w66wtcc,emilija+01_I7vH_AxF5@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+tcnfl4z60xouv3fk3w66wtcc,emilija+01_I7vH_AxF5@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+tcnfl4z60xouv3fk3w66wtcc,emilija+01_I7vH_AxF5@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+u5wwl65fybur92b90c3hswao,emilija+101_jj3C_nsLJ@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+u5wwl65fybur92b90c3hswao,emilija+101_jj3C_nsLJ@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73228,Sales,Answer
+u5wwl65fybur92b90c3hswao,emilija+101_jj3C_nsLJ@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+u5wwl65fybur92b90c3hswao,emilija+101_jj3C_nsLJ@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+ti4o4ov436gn8yp3j1c61svm,daniela.p+203_NfBj_8KQ3@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73102,Educational purposes ,Answer
+ti4o4ov436gn8yp3j1c61svm,daniela.p+203_NfBj_8KQ3@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+ti4o4ov436gn8yp3j1c61svm,daniela.p+203_NfBj_8KQ3@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+ti4o4ov436gn8yp3j1c61svm,daniela.p+203_NfBj_8KQ3@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+aldevuzj7ns6u2d627eq2q5g,emilija+2_02Wi_sEkD@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+aldevuzj7ns6u2d627eq2q5g,emilija+2_02Wi_sEkD@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+aldevuzj7ns6u2d627eq2q5g,emilija+2_02Wi_sEkD@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+bcmmerckywgc6llx4kxyr1le,emilija+3_CmwU_xccV@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+bcmmerckywgc6llx4kxyr1le,emilija+3_CmwU_xccV@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+bcmmerckywgc6llx4kxyr1le,emilija+3_CmwU_xccV@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+ku23k0nqh4urfx3qbmm7e2sy,aleksandar.dimkov+mitt1_n5eA_c8O2@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+ku23k0nqh4urfx3qbmm7e2sy,aleksandar.dimkov+mitt1_n5eA_c8O2@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73228,Sales,Answer
+ku23k0nqh4urfx3qbmm7e2sy,aleksandar.dimkov+mitt1_n5eA_c8O2@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73294,Event management,Answer
+ku23k0nqh4urfx3qbmm7e2sy,aleksandar.dimkov+mitt1_n5eA_c8O2@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336e,Sole responsibility,Answer
+ku23k0nqh4urfx3qbmm7e2sy,aleksandar.dimkov+mitt1_n5eA_c8O2@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73375,5 - 10 million rubles,Answer
+bqg1ucjqk14u5av22n0jfhjb,aleksandar.dimkov+mitt10_V0iB_21BI@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+bqg1ucjqk14u5av22n0jfhjb,aleksandar.dimkov+mitt10_V0iB_21BI@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+bqg1ucjqk14u5av22n0jfhjb,aleksandar.dimkov+mitt10_V0iB_21BI@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+bqg1ucjqk14u5av22n0jfhjb,aleksandar.dimkov+mitt10_V0iB_21BI@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+bqg1ucjqk14u5av22n0jfhjb,aleksandar.dimkov+mitt10_V0iB_21BI@bss.com.mk,F,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+zcf116neh1ny42asu75xy0h2,emilija+100_zbmO_xln3@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+zcf116neh1ny42asu75xy0h2,emilija+100_zbmO_xln3@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73244,Media,Answer
+zcf116neh1ny42asu75xy0h2,emilija+100_zbmO_xln3@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+zcf116neh1ny42asu75xy0h2,emilija+100_zbmO_xln3@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+8iqywq3m81tjxwfrd0jijyth,daniela.p+202_Rw2b_20IK@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+8iqywq3m81tjxwfrd0jijyth,daniela.p+202_Rw2b_20IK@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73229,Marketing,Answer
+8iqywq3m81tjxwfrd0jijyth,daniela.p+202_Rw2b_20IK@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+8iqywq3m81tjxwfrd0jijyth,daniela.p+202_Rw2b_20IK@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+8iqywq3m81tjxwfrd0jijyth,daniela.p+202_Rw2b_20IK@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+e8bxsksz9xo25tg7tvo7z2ho,tanja+182_jiPa_MVxX@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+e8bxsksz9xo25tg7tvo7z2ho,tanja+182_jiPa_MVxX@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+e8bxsksz9xo25tg7tvo7z2ho,tanja+182_jiPa_MVxX@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+1o5g2tlsho4gxzk3usr06z1c,sergey.usenko_ucwx_DPxA@ite.group,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73103,Personal interest,Answer
+aq4v0kee568ttej8iiemf43d,tanja+182_jiPa_ARQM@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+aq4v0kee568ttej8iiemf43d,tanja+182_jiPa_ARQM@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+aq4v0kee568ttej8iiemf43d,tanja+182_jiPa_ARQM@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+4877yd3ywtavsxe5acy4vby2,emilija+101_jj3C_5KuG@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+4877yd3ywtavsxe5acy4vby2,emilija+101_jj3C_5KuG@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73228,Sales,Answer
+4877yd3ywtavsxe5acy4vby2,emilija+101_jj3C_5KuG@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+4877yd3ywtavsxe5acy4vby2,emilija+101_jj3C_5KuG@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+kae434rtpet3dnb8g3khop04,sergey.usenko_ucwx_DprR@ite.group,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73103,Personal interest,Answer
+o1qflq1vwy0ysoicvlsg1ftt,tatjana+182_N1PC_oo6l@bss.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+o1qflq1vwy0ysoicvlsg1ftt,tatjana+182_N1PC_oo6l@bss.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+o1qflq1vwy0ysoicvlsg1ftt,tatjana+182_N1PC_oo6l@bss.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+wzh3p4rs1362l62x4dh2dikd,daniela.p+202_Rw2b_ZF2k@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+wzh3p4rs1362l62x4dh2dikd,daniela.p+202_Rw2b_ZF2k@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73229,Marketing,Answer
+wzh3p4rs1362l62x4dh2dikd,daniela.p+202_Rw2b_ZF2k@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+wzh3p4rs1362l62x4dh2dikd,daniela.p+202_Rw2b_ZF2k@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+wzh3p4rs1362l62x4dh2dikd,daniela.p+202_Rw2b_ZF2k@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+f9l91z1a20tmyrx0lk7tcbw0,daniela.p+203_NfBj_R5H7@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73102,Educational purposes ,Answer
+f9l91z1a20tmyrx0lk7tcbw0,daniela.p+203_NfBj_R5H7@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+f9l91z1a20tmyrx0lk7tcbw0,daniela.p+203_NfBj_R5H7@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+f9l91z1a20tmyrx0lk7tcbw0,daniela.p+203_NfBj_R5H7@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+azs5ghtuwudyxwstbltb0xiz,daniela.p+150_YhiF_NqPH@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+azs5ghtuwudyxwstbltb0xiz,daniela.p+150_YhiF_NqPH@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323c,Formation of tourist products,Answer
+azs5ghtuwudyxwstbltb0xiz,daniela.p+150_YhiF_NqPH@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+azs5ghtuwudyxwstbltb0xiz,daniela.p+150_YhiF_NqPH@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+azs5ghtuwudyxwstbltb0xiz,daniela.p+150_YhiF_NqPH@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+q6d3mph828gjpg1cu7vsqkx4,daniela.p+203_NfBj_DuMy@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73102,Educational purposes ,Answer
+q6d3mph828gjpg1cu7vsqkx4,daniela.p+203_NfBj_DuMy@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+q6d3mph828gjpg1cu7vsqkx4,daniela.p+203_NfBj_DuMy@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+q6d3mph828gjpg1cu7vsqkx4,daniela.p+203_NfBj_DuMy@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+i6uv2n0jfrqxhuh90fl90cfv,emilija+101_jj3C_g3J8@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+i6uv2n0jfrqxhuh90fl90cfv,emilija+101_jj3C_g3J8@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73228,Sales,Answer
+i6uv2n0jfrqxhuh90fl90cfv,emilija+101_jj3C_g3J8@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+i6uv2n0jfrqxhuh90fl90cfv,emilija+101_jj3C_g3J8@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+nvark7mbo9mzipyrs3b05ni5,emilija+100_L8gA_7JBa@bss.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+nvark7mbo9mzipyrs3b05ni5,emilija+100_L8gA_7JBa@bss.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73244,Media,Answer
+nvark7mbo9mzipyrs3b05ni5,emilija+100_L8gA_7JBa@bss.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+nvark7mbo9mzipyrs3b05ni5,emilija+100_L8gA_7JBa@bss.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+vgobo8s5ikba7uxggs4oeuzg,aleksandar.dimkov+mitt1_n5eA_J2i8@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+vgobo8s5ikba7uxggs4oeuzg,aleksandar.dimkov+mitt1_n5eA_J2i8@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73228,Sales,Answer
+vgobo8s5ikba7uxggs4oeuzg,aleksandar.dimkov+mitt1_n5eA_J2i8@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73294,Event management,Answer
+vgobo8s5ikba7uxggs4oeuzg,aleksandar.dimkov+mitt1_n5eA_J2i8@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336e,Sole responsibility,Answer
+vgobo8s5ikba7uxggs4oeuzg,aleksandar.dimkov+mitt1_n5eA_J2i8@bss.com.mk,F,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73375,5 - 10 million rubles,Answer
+yxyhdns9mr7s3k8wdhbd7n5k,daniela.p+201_Fwae_AK8l@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+yxyhdns9mr7s3k8wdhbd7n5k,daniela.p+201_Fwae_AK8l@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+yxyhdns9mr7s3k8wdhbd7n5k,daniela.p+201_Fwae_AK8l@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+yxyhdns9mr7s3k8wdhbd7n5k,daniela.p+201_Fwae_AK8l@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336e,Sole responsibility,Answer
+yxyhdns9mr7s3k8wdhbd7n5k,daniela.p+201_Fwae_AK8l@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+35d97gdotgwa5lwpd0vs7k0h,tanja+182_jiPa_5IoL@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+35d97gdotgwa5lwpd0vs7k0h,tanja+182_jiPa_5IoL@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+35d97gdotgwa5lwpd0vs7k0h,tanja+182_jiPa_5IoL@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+aj19tvz00ofz9t18chg8dm1r,emilija_x3WF_2hGj@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73103,Personal interest,Answer
+d06cnxqs2ghe6egg635797eb,emilija+3_CmwU_NYnU@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+d06cnxqs2ghe6egg635797eb,emilija+3_CmwU_NYnU@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+d06cnxqs2ghe6egg635797eb,emilija+3_CmwU_NYnU@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+mabr1wv773qmje0ttq0qwtbg,sergey.usenko_ucwx_BVBu@ite.group,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73103,Personal interest,Answer
+rns6tfx45xfd4zrrzjufi688,emilija+01_I7vH_eEKa@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+rns6tfx45xfd4zrrzjufi688,emilija+01_I7vH_eEKa@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+rns6tfx45xfd4zrrzjufi688,emilija+01_I7vH_eEKa@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+8oyg0bjxvux1vlfakoiaj7jv,emilija_x3WF_b5QU@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73103,Personal interest,Answer
+fo9fdaazpqxsftbbgkrxi6w6,daniela.p+203_NfBj_zBgp@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73102,Educational purposes ,Answer
+fo9fdaazpqxsftbbgkrxi6w6,daniela.p+203_NfBj_zBgp@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+fo9fdaazpqxsftbbgkrxi6w6,daniela.p+203_NfBj_zBgp@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+fo9fdaazpqxsftbbgkrxi6w6,daniela.p+203_NfBj_zBgp@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+5uytvy9crand6h03ox1elvuc,emilija+3_CmwU_F2JI@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+5uytvy9crand6h03ox1elvuc,emilija+3_CmwU_F2JI@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+5uytvy9crand6h03ox1elvuc,emilija+3_CmwU_F2JI@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+awomj46ol5mlowhbdqavxwoj,aleksandar.dimkov+mitt1_n5eA_tzip@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+awomj46ol5mlowhbdqavxwoj,aleksandar.dimkov+mitt1_n5eA_tzip@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73228,Sales,Answer
+awomj46ol5mlowhbdqavxwoj,aleksandar.dimkov+mitt1_n5eA_tzip@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73294,Event management,Answer
+awomj46ol5mlowhbdqavxwoj,aleksandar.dimkov+mitt1_n5eA_tzip@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336e,Sole responsibility,Answer
+awomj46ol5mlowhbdqavxwoj,aleksandar.dimkov+mitt1_n5eA_tzip@bss.com.mk,F,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73375,5 - 10 million rubles,Answer
+fs5gjd2k2z3o2gif5gni04rs,tanja+182_jiPa_H11i@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+fs5gjd2k2z3o2gif5gni04rs,tanja+182_jiPa_H11i@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+fs5gjd2k2z3o2gif5gni04rs,tanja+182_jiPa_H11i@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+5od7hl76u671o8mjes1qxwsk,emilija+100_L8gA_JDxN@bss.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+5od7hl76u671o8mjes1qxwsk,emilija+100_L8gA_JDxN@bss.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73244,Media,Answer
+5od7hl76u671o8mjes1qxwsk,emilija+100_L8gA_JDxN@bss.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+5od7hl76u671o8mjes1qxwsk,emilija+100_L8gA_JDxN@bss.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+ip5ylx2a6dts3f5lak2q2mi3,emilija+100_zbmO_lsjt@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+ip5ylx2a6dts3f5lak2q2mi3,emilija+100_zbmO_lsjt@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73244,Media,Answer
+ip5ylx2a6dts3f5lak2q2mi3,emilija+100_zbmO_lsjt@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+ip5ylx2a6dts3f5lak2q2mi3,emilija+100_zbmO_lsjt@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+sl0pqtnqavydiqidf8nxzrea,3990147_SeNs_09Hr@gmail.com,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+sl0pqtnqavydiqidf8nxzrea,3990147_SeNs_09Hr@gmail.com,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+sl0pqtnqavydiqidf8nxzrea,3990147_SeNs_09Hr@gmail.com,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+nwgueloa1n8u9v2eegzvfamb,daniela.p+201_Fwae_HTYS@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+nwgueloa1n8u9v2eegzvfamb,daniela.p+201_Fwae_HTYS@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+nwgueloa1n8u9v2eegzvfamb,daniela.p+201_Fwae_HTYS@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+nwgueloa1n8u9v2eegzvfamb,daniela.p+201_Fwae_HTYS@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336e,Sole responsibility,Answer
+nwgueloa1n8u9v2eegzvfamb,daniela.p+201_Fwae_HTYS@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+3a17inawhgac2o0xtix3fb3n,aleksandar.dimkov+mitt1_n5eA_oG2a@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+3a17inawhgac2o0xtix3fb3n,aleksandar.dimkov+mitt1_n5eA_oG2a@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73228,Sales,Answer
+3a17inawhgac2o0xtix3fb3n,aleksandar.dimkov+mitt1_n5eA_oG2a@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73294,Event management,Answer
+3a17inawhgac2o0xtix3fb3n,aleksandar.dimkov+mitt1_n5eA_oG2a@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336e,Sole responsibility,Answer
+3a17inawhgac2o0xtix3fb3n,aleksandar.dimkov+mitt1_n5eA_oG2a@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73375,5 - 10 million rubles,Answer
+y67npjis9odvv7cgl9867epq,aleksandar.dimkov+mb1_Xc8j_vvSH@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+y67npjis9odvv7cgl9867epq,aleksandar.dimkov+mb1_Xc8j_vvSH@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73228,Sales,Answer
+y67npjis9odvv7cgl9867epq,aleksandar.dimkov+mb1_Xc8j_vvSH@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73294,Event management,Answer
+y67npjis9odvv7cgl9867epq,aleksandar.dimkov+mb1_Xc8j_vvSH@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+hcrco3j3ndo542hbg2twb0np,tanja+202_99oJ_VzXA@bss.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+hcrco3j3ndo542hbg2twb0np,tanja+202_99oJ_VzXA@bss.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323c,Formation of tourist products,Answer
+hcrco3j3ndo542hbg2twb0np,tanja+202_99oJ_VzXA@bss.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73292,Accommodation Provider,Answer
+hcrco3j3ndo542hbg2twb0np,tanja+202_99oJ_VzXA@bss.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+hcrco3j3ndo542hbg2twb0np,tanja+202_99oJ_VzXA@bss.mk,F,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73374,1 - 5 million rubles,Answer
+sou8pmpid2soba8goi4y1p5x,daniela.p+202_Rw2b_Oi3B@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+sou8pmpid2soba8goi4y1p5x,daniela.p+202_Rw2b_Oi3B@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73229,Marketing,Answer
+sou8pmpid2soba8goi4y1p5x,daniela.p+202_Rw2b_Oi3B@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+sou8pmpid2soba8goi4y1p5x,daniela.p+202_Rw2b_Oi3B@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+sou8pmpid2soba8goi4y1p5x,daniela.p+202_Rw2b_Oi3B@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+m8scogphlixjvlwkks009zl9,daniela.p+151_o4q3_Mt3G@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73103,Personal interest,Answer
+ifuk295cot2nvgcd9m6ees78,emilija+100_zbmO_4ZQ4@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+ifuk295cot2nvgcd9m6ees78,emilija+100_zbmO_4ZQ4@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73244,Media,Answer
+ifuk295cot2nvgcd9m6ees78,emilija+100_zbmO_4ZQ4@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+ifuk295cot2nvgcd9m6ees78,emilija+100_zbmO_4ZQ4@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+6k29ezb4owiomwpfb12502zq,tanja+182_jiPa_Nfsx@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+6k29ezb4owiomwpfb12502zq,tanja+182_jiPa_Nfsx@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+6k29ezb4owiomwpfb12502zq,tanja+182_jiPa_Nfsx@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+rh5y4efxr5rhh3m5u178w86t,tanja+182_jiPa_YaEw@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+rh5y4efxr5rhh3m5u178w86t,tanja+182_jiPa_YaEw@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+rh5y4efxr5rhh3m5u178w86t,tanja+182_jiPa_YaEw@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+0wcaegyyobblhhvfzwyibn0a,daniela.p+203_NfBj_lrIk@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73102,Educational purposes ,Answer
+0wcaegyyobblhhvfzwyibn0a,daniela.p+203_NfBj_lrIk@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+0wcaegyyobblhhvfzwyibn0a,daniela.p+203_NfBj_lrIk@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+0wcaegyyobblhhvfzwyibn0a,daniela.p+203_NfBj_lrIk@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+h6m3ppqa2ui8z922ddkcrdxz,tanja+182_Ahsx_hqUn@bss.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+h6m3ppqa2ui8z922ddkcrdxz,tanja+182_Ahsx_hqUn@bss.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73293,IT solutions for travel industry,Answer
+h6m3ppqa2ui8z922ddkcrdxz,tanja+182_Ahsx_hqUn@bss.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336e,Sole responsibility,Answer
+h6m3ppqa2ui8z922ddkcrdxz,tanja+182_Ahsx_hqUn@bss.mk,F,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73374,1 - 5 million rubles,Answer
+wgf8glx8axdaq94290uynav9,3990147_SeNs_mVZi@gmail.com,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+wgf8glx8axdaq94290uynav9,3990147_SeNs_mVZi@gmail.com,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+wgf8glx8axdaq94290uynav9,3990147_SeNs_mVZi@gmail.com,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+fxtyirzcqhb0t8w66n1rrg1u,emilija_x3WF_Ge24@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73103,Personal interest,Answer
+870504t2mvyphtv5p2rpqzhu,aleksandar.dimkov+mitt1_n5eA_UbFT@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+870504t2mvyphtv5p2rpqzhu,aleksandar.dimkov+mitt1_n5eA_UbFT@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73228,Sales,Answer
+870504t2mvyphtv5p2rpqzhu,aleksandar.dimkov+mitt1_n5eA_UbFT@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73294,Event management,Answer
+870504t2mvyphtv5p2rpqzhu,aleksandar.dimkov+mitt1_n5eA_UbFT@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336e,Sole responsibility,Answer
+870504t2mvyphtv5p2rpqzhu,aleksandar.dimkov+mitt1_n5eA_UbFT@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73375,5 - 10 million rubles,Answer
+nbaqmxp4ox9elnfzdq0fykn8,daniela.p+203_NfBj_WAMQ@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73102,Educational purposes ,Answer
+nbaqmxp4ox9elnfzdq0fykn8,daniela.p+203_NfBj_WAMQ@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323b,Visa support,Answer
+nbaqmxp4ox9elnfzdq0fykn8,daniela.p+203_NfBj_WAMQ@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73290,Tour Operator,Answer
+nbaqmxp4ox9elnfzdq0fykn8,daniela.p+203_NfBj_WAMQ@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+gvlehw939njjmi3fs5c43a7p,emilija+3_CmwU_tbhk@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+gvlehw939njjmi3fs5c43a7p,emilija+3_CmwU_tbhk@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+gvlehw939njjmi3fs5c43a7p,emilija+3_CmwU_tbhk@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+y10ilgiji2mozv41r1uvfwo2,daniela.p+200_IzcX_vB6s@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+y10ilgiji2mozv41r1uvfwo2,daniela.p+200_IzcX_vB6s@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323d,Guided tour services,Answer
+y10ilgiji2mozv41r1uvfwo2,daniela.p+200_IzcX_vB6s@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+y10ilgiji2mozv41r1uvfwo2,daniela.p+200_IzcX_vB6s@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+yzc27c0f8w2ortjytg54wtmh,tanja+182_Ahsx_Lcd6@bss.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+yzc27c0f8w2ortjytg54wtmh,tanja+182_Ahsx_Lcd6@bss.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73293,IT solutions for travel industry,Answer
+yzc27c0f8w2ortjytg54wtmh,tanja+182_Ahsx_Lcd6@bss.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336e,Sole responsibility,Answer
+yzc27c0f8w2ortjytg54wtmh,tanja+182_Ahsx_Lcd6@bss.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73374,1 - 5 million rubles,Answer
+j4pb9w5u35nzubtiagk5a61l,emilija+101_jj3C_mXlu@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+j4pb9w5u35nzubtiagk5a61l,emilija+101_jj3C_mXlu@bss.com.mk,F,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f73228,Sales,Answer
+j4pb9w5u35nzubtiagk5a61l,emilija+101_jj3C_mXlu@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+j4pb9w5u35nzubtiagk5a61l,emilija+101_jj3C_mXlu@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+gultwxcgf4l0k3psuryptsg2,daniela.p+150_YhiF_OH5e@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73101,To promote products and services,Answer
+gultwxcgf4l0k3psuryptsg2,daniela.p+150_YhiF_OH5e@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323c,Formation of tourist products,Answer
+gultwxcgf4l0k3psuryptsg2,daniela.p+150_YhiF_OH5e@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+gultwxcgf4l0k3psuryptsg2,daniela.p+150_YhiF_OH5e@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f7336f,Joint responsibility,Answer
+gultwxcgf4l0k3psuryptsg2,daniela.p+150_YhiF_OH5e@bss.com.mk,M,5c8a78336d41a10da4f73372,What is your company's annual purchasing budget?,5c8a78336d41a10da4f73373,Up to 1 million rubles,Answer
+qy1d6nap87vjj61bqyu9ru50,emilija+2_02Wi_UXK5@bss.com.mk,F,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f730ff,To source products and services,Answer
+qy1d6nap87vjj61bqyu9ru50,emilija+2_02Wi_UXK5@bss.com.mk,F,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+qy1d6nap87vjj61bqyu9ru50,emilija+2_02Wi_UXK5@bss.com.mk,F,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73371,No influence,Answer
+uud1nluegdqmisnfzpg75iqg,daniela.p+200_IzcX_QOfF@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+uud1nluegdqmisnfzpg75iqg,daniela.p+200_IzcX_QOfF@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323d,Guided tour services,Answer
+uud1nluegdqmisnfzpg75iqg,daniela.p+200_IzcX_QOfF@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+uud1nluegdqmisnfzpg75iqg,daniela.p+200_IzcX_QOfF@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
+mv0j9yovwhgmtif9l1naciko,daniela.p+200_IzcX_CIHU@bss.com.mk,M,5c8a78336d41a10da4f730fe,Reason for Attending the Event,5c8a78336d41a10da4f73100,To obtain general information,Answer
+mv0j9yovwhgmtif9l1naciko,daniela.p+200_IzcX_CIHU@bss.com.mk,M,5c8a78336d41a10da4f73227,Which of the following best describes your job function?,5c8a78336d41a10da4f7323d,Guided tour services,Answer
+mv0j9yovwhgmtif9l1naciko,daniela.p+200_IzcX_CIHU@bss.com.mk,M,5c8a78336d41a10da4f73253,Please indicate your company's main area of business,5c8a78336d41a10da4f73291,Travel Agent,Answer
+mv0j9yovwhgmtif9l1naciko,daniela.p+200_IzcX_CIHU@bss.com.mk,M,5c8a78336d41a10da4f7336d,What role do you play in the purchasing decision making process?,5c8a78336d41a10da4f73370,Advisory role,Answer
