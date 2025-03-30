@@ -17,6 +17,20 @@ def download_nltk_resource(resource):
 download_nltk_resource('corpora/wordnet')
 lemmatizer = WordNetLemmatizer()
 
+def get_lemmatized_words(text):
+    """Lemmatize words in the input text."""
+    if not isinstance(text, str):
+        return ""
+    
+    # Tokenize the text into words
+    words = text.split()
+    
+    # Lemmatize each word and join them back into a string
+    lemmatized_text = " ".join([lemmatizer.lemmatize(word) for word in words])
+    
+    return lemmatized_text
+
+
 
 def clean_text(text):
     """Lowercase, strip whitespace, remove leading numbers/punctuation, stop words, and special characters."""
